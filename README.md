@@ -46,7 +46,7 @@ venv\Scripts\activate      # Windows
 pip install flask
 ```
 
-> Not: Depoda henüz bir `requirements.txt` bulunmuyor; proje şu an yalnızca Flask'ın standart kütüphanelerine (`sqlite3`, `subprocess`, `concurrent.futures`) ve Flask paketine ihtiyaç duyuyor.
+
 
 Veritabanını oluşturmak için ilk kurulumda bir kez çalıştırın:
 
@@ -114,6 +114,3 @@ network_montioring/
 - [ ] SNMP tabanlı ek metrik toplama (opsiyonel)
 - [ ] `requirements.txt` ve otomatik/zamanlanmış tarama desteği
 
-## Lisans
-
-Bu depo için henüz bir lisans belirtilmemiştir.
